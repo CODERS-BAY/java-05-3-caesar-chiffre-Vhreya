@@ -4,7 +4,7 @@ public class CaesarChiffre {
     public static void main(String[] args) {
         Random zufall = new Random();
 
-        //das braucht sicher noch feinschliff, aber soweit meine Lösung zu der Aufgabe:
+        //das braucht sicher noch Feinschliff, aber soweit meine Lösung zu der Aufgabe:
 
         int pos = 0;
         String txt = "Ein Charakter namens Caesar!";
